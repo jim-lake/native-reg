@@ -3,9 +3,9 @@
 /.idea/workspace.xml
 /build/
 /prebuilds/
-/lib/
 
 dist/
 node_modules/
 yarn-error.log*
 *.tgz
+/package-lock.json
